@@ -21,7 +21,11 @@ public class SearchNilai17 {
         }   
     }
     System.out.println();
-    System.out.println("Nilai "+key+" ketemu, merupakan nilai mahasiswa ke-"+(hasil+1));
+    if (hasil != 0) {
+        System.out.println("Nilai "+key+" ketemu, merupakan nilai mahasiswa ke-"+(hasil+1));
+    } else {
+        System.out.println("Nilai yang dicari tidak ditemukan");
+    }
 }
 }
         
