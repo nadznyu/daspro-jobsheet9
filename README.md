@@ -59,3 +59,15 @@
 **Jawaban Percobaan 3**
 1. Sudah commit di github.
 2. Sudah commit di github.
+
+**Pertanyaan Percobaan 4**
+1. Jelaskan maksud dari statement break; pada baris ke-10 kode program percobaan 4 di atas.
+2. Modifikasi kode program pada percobaan 4 di atas sehingga program dapat menerima input 
+   berupa banyaknya elemen array nilai, isi array, dan sebuah nilai (key) yang ingin dicari. Lalu cetak ke layar indeks posisi elemen dari nilai (key) yang dicari. Contoh hasil program: (ilustrasi ada di soal jobsheet 9)
+3. Modifikasi program pada percobaan 4 di atas, sehingga program akan memberikan pesan 
+   "Nilai yang dicari tidak ditemukan" jika nilai yang dicari (key) tidak ada di dalam array. Contoh tampilan program sebagai berikut:(tampilan program ada di soal jobsheet 9)
+
+**Jawaban Percobaan 4**
+1. Untuk menghentikan sebuah perulangan, jika kondisi sudah memenuhi maka program akan diberhentikan.
+2. Sudah commit di github.
+3. Sudah commit di github.
