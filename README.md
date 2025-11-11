@@ -49,3 +49,13 @@
 3. Di awal, program akan meminta kita untuk memasukkan nilai Mahasiswa sampai dengan mahasiswa 
    ke 9, lalu program akan membaca nilai yang sudah dimasukkan, kemudian program hanya membaca dan mengeluarkan output "lulus!" untuk nilai mahasiswa yang lebih dari 70.
 4. Modifikasi berada di github.
+
+**Pertanyaan Percobaan 3**
+1. Modifikasi kode program pada praktikum percobaan 3 di atas (ArrayRataNilaiXX.java) agar program 
+   dapat menampilkan banyaknya mahasiswa yang lulus, yaitu mahasiswa yang memiliki lebih besar dari 70 (> 70).
+2. Modifikasi program pada praktikum percobaan 3 di atas (ArrayRataNilaiXX.java) sehingga program 
+   menerima jumlah elemen berdasarkan input dari pengguna dan mengeluarkan output seperti berikut ini: (tampilan program ada di soal jobsheet 9)
+
+**Jawaban Percobaan 3**
+1. Sudah commit di github.
+2. Sudah commit di github.
